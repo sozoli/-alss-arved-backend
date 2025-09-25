@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ALSS_invoice_back.props" />
+</Project>

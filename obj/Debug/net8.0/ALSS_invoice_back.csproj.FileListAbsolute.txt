@@ -1,0 +1,282 @@
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/appsettings.Development.json
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/appsettings.json
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.staticwebassets.runtime.json
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.deps.json
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.runtimeconfig.json
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.pdb
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/AutoMapper.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/FluentValidation.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Humanizer.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.AspNetCore.Authorization.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.AspNetCore.Metadata.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Npgsql.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.CodeDom.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Text.Json.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.csproj.AssemblyReference.cache
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.AssemblyInfoInputs.cache
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.AssemblyInfo.cs
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.csproj.CoreCompileInputs.cache
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.MvcApplicationPartsAssemblyInfo.cs
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.MvcApplicationPartsAssemblyInfo.cache
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets.build.json
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets.development.json
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets/msbuild.ALSS_invoice_back.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets/msbuild.build.ALSS_invoice_back.props
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ALSS_invoice_back.props
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ALSS_invoice_back.props
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/scopedcss/bundle/ALSS_invoice_back.styles.css
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_inv.93050F6F.Up2Date
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/refint/ALSS_invoice_back.dll
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.pdb
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.genruntimeconfig.cache
+/Users/zolinnaa/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ref/ALSS_invoice_back.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/appsettings.Development.json
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/appsettings.json
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.staticwebassets.runtime.json
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.deps.json
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.runtimeconfig.json
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ALSS_invoice_back.pdb
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/AutoMapper.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/FluentValidation.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Humanizer.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.AspNetCore.Authorization.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.AspNetCore.Metadata.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Npgsql.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.CodeDom.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/System.Text.Json.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.csproj.AssemblyReference.cache
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.AssemblyInfoInputs.cache
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.AssemblyInfo.cs
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.csproj.CoreCompileInputs.cache
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.MvcApplicationPartsAssemblyInfo.cs
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.MvcApplicationPartsAssemblyInfo.cache
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets.build.json
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets.development.json
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets/msbuild.ALSS_invoice_back.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets/msbuild.build.ALSS_invoice_back.props
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ALSS_invoice_back.props
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ALSS_invoice_back.props
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/scopedcss/bundle/ALSS_invoice_back.styles.css
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_inv.93050F6F.Up2Date
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/refint/ALSS_invoice_back.dll
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.pdb
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ALSS_invoice_back.genruntimeconfig.cache
+/Users/zolinnaa/Documents/uni/ISA III/ALSS_Arved/alss_arved/BackEnd/obj/Debug/net8.0/ref/ALSS_invoice_back.dll

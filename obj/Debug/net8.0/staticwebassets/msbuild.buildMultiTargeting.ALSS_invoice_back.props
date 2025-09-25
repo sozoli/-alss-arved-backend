@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ALSS_invoice_back.props" />
+</Project>
