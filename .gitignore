@@ -1,0 +1,10 @@
+bin/
+obj/
+out/
+.vs/
+.vscode/
+.DS_Store
+wwwroot/uploads/
+*.dll
+*.pdb
+appsettings.Development.json
