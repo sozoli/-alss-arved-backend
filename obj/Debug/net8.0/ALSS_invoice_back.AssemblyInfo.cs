@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ALSS_invoice_back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+001485bbd609a4d08bbd85b23708418cf1c83cd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fdd6eafc75b78acacb96d8c44cf930835b04fab")]
 [assembly: System.Reflection.AssemblyProductAttribute("ALSS_invoice_back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ALSS_invoice_back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
